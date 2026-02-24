@@ -17,14 +17,14 @@ function Projects() {
       title: "Evana – Event Platform",
       description:
         "Full-stack booking platform with JWT authentication, Razorpay payments, and real-time chat.",
-      live: "https://github.com/Ashwani895/evana",
+      live: "https://evana-6v92.vercel.app/",
       github: "https://github.com/Ashwani895/evana",
     },
     {
       title: "Cloudbook – Secure Storage",
       description:
         "Encrypted cloud storage with AWS S3 integration and file version control.",
-      live: "https://github.com/Ashwani895/cloudbook",
+      live: "https://cloudbook-sandy.vercel.app/login",
       github: "https://github.com/Ashwani895/cloudbook",
     },
     {
