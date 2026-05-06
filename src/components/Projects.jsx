@@ -34,6 +34,13 @@ function Projects() {
       live: "https://github.com/Ashwani895/aicropdiseasepredictor",
       github: "https://github.com/Ashwani895/aicropdiseasepredictor",
     },
+    {
+      title: "Pixel-Nudge",
+      description:
+        "Developed a modern, responsive website for a branding agency based on real client requirements, with optimized UI/UX and performance. The site is live and in production, serving real users.~Freelance Project",
+        live: "https://pixelnudge.online",
+      
+    },
   ];
 
   // Duplicate projects for infinite loop illusion
