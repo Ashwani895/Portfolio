@@ -41,6 +41,13 @@ function Projects() {
         live: "https://pixelnudge.online",
       
     },
+    {
+      title: "GenScribe AI",
+      description:
+        "MERN-based AI SaaS platform with Groq AI, tone control, multi-mode content generation, authentication, and Razorpay integration.",
+      live: "https://genscribe-one.vercel.app/",
+      github: "https://github.com/Ashwani895/Genscribe",
+    },
   ];
 
   // Duplicate projects for infinite loop illusion
