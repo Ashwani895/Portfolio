@@ -236,7 +236,7 @@ function Hero() {
             className="flex gap-10 md:gap-12"
           >
             {[
-              { value: "Fresher", label: "Years Exp." },
+              { value: 6, label: "Months Exp." },
               { value: 10, label: "Projects" },
               { value: 10, label: "Tech Skills" },
             ].map((stat, i) => (
