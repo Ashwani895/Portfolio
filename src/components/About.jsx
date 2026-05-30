@@ -21,7 +21,7 @@ const itemVariants = {
 const highlights = [
   {
     title: "Experience",
-    desc: "2+ years building modern web applications using React & Node.js.",
+    desc: "Fresher with hands on experience in building modern web applications using React & Node.js.",
     icon: Briefcase,
     gradient: "from-blue-500 to-cyan-400",
   },
@@ -33,7 +33,7 @@ const highlights = [
   },
   {
     title: "Tech Focus",
-    desc: "Frontend architecture, performance optimization & scalable backend design.",
+    desc: "MERN Full-Stack architecture, performance optimization & scalable backend design.",
     icon: Cpu,
     gradient: "from-emerald-500 to-teal-400",
   },

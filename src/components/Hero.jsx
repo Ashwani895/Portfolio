@@ -236,8 +236,8 @@ function Hero() {
             className="flex gap-10 md:gap-12"
           >
             {[
-              { value: 2, label: "Years Exp." },
-              { value: 5, label: "Projects" },
+              { value: "Fresher", label: "Years Exp." },
+              { value: 10, label: "Projects" },
               { value: 10, label: "Tech Skills" },
             ].map((stat, i) => (
               <motion.div
